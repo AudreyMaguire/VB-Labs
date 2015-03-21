@@ -1,0 +1,9 @@
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab3console\Lab3console\bin\Debug\Lab3console.exe.config
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab3console\Lab3console\bin\Debug\Lab3console.exe
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab3console\Lab3console\bin\Debug\Lab3console.pdb
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab3console\Lab3console\bin\Debug\Lab3console.xml
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab3console\Lab3console\obj\Debug\Lab3console.Resources.resources
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab3console\Lab3console\obj\Debug\Lab3console.vbproj.GenerateResource.Cache
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab3console\Lab3console\obj\Debug\Lab3console.exe
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab3console\Lab3console\obj\Debug\Lab3console.xml
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab3console\Lab3console\obj\Debug\Lab3console.pdb
