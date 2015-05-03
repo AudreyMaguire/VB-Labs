@@ -1,0 +1,9 @@
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab5\Lab5\bin\Debug\Lab5.xml
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab5\Lab5\obj\Debug\Lab5.Resources.resources
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab5\Lab5\obj\Debug\Lab5.vbproj.GenerateResource.Cache
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab5\Lab5\obj\Debug\Lab5.xml
+C:\Users\Audrey\Documents\Visual Studio 2013\Projects\Lab5\Lab5\obj\Debug\Lab5.pdb
